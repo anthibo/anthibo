@@ -13,6 +13,7 @@ I'm a Software Engineer. I'm currently studying at Faculty of Science Alexandria
    "backend": ["NodeJS", "ExpressJs", "AdonisJS", "NestJS", "GraphQL"],
    "frontend": ["React"],
    "databases": ["PostgreSQL", "MongoDB"],
-   "cloud": ["heroku"]
+   "cloud": ["heroku"],
+   "learning":["GRPC", "Angular", "Redis", "AWS"]
 }
 ```
