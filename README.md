@@ -14,6 +14,6 @@ I'm a Software Engineer. I'm currently studying at Faculty of Science Alexandria
    "frontend": ["React"],
    "databases": ["PostgreSQL", "MongoDB"],
    "cloud": ["heroku"],
-   "learning":["GRPC", "Angular", "Redis", "AWS"]
+   "learning":["GRPC", "Angular", "Redis", "AWS", "GoLang", "Code Design"]
 }
 ```
