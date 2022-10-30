@@ -14,6 +14,6 @@ I'm a Software Engineer with a HUGE passion for backend and cloud tech. I enjoy 
    "frontend": ["React"],
    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
    "cloud": ["heroku"],
-   "learning":["gRPC", "Angular", "Redis", "AWS", "GoLang", "Code Design"]
+   "learning":["gRPC", "Problem Solving", "Networking", "Redis", "AWS", "GoLang", "Code Design"]
 }
 ```
