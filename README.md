@@ -10,10 +10,10 @@ I'm a Software Engineer with a HUGE passion for backend and cloud tech. I enjoy 
 ```json
 {
    "languages": ["JavaScript", "TypeScript"],
-   "backend": ["NodeJS", "ExpressJs", "AdonisJS", "NestJS", "GraphQL"],
-   "frontend": ["React"],
+   "backend": ["NodeJS", "ExpressJs", "Springboot", "NestJS", "GraphQL", "Microservices", "Message-Queues"],
+   "frontend": ["React", "NextJS", "Redux", "Vue", "Vuex"],
    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-   "cloud": ["heroku"],
-   "learning":["gRPC", "Problem Solving", "Networking", "Redis", "AWS", "GoLang", "Code Design"]
+   "cloud": ["heroku", "vercel"],
+   "learning":["Springboot", "Problem Solving", "Domain-Driven Design", "CQRS", "Redis", "AWS", "GoLang", "Code Design"]
 }
 ```
