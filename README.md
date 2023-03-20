@@ -13,7 +13,7 @@ I'm a Software Engineer with a HUGE passion for backend and cloud tech. I enjoy 
    "backend": ["NodeJS", "ExpressJs", "Springboot", "NestJS", "GraphQL", "Microservices", "Message-Queues"],
    "frontend": ["React", "NextJS", "Redux", "Vue", "Vuex"],
    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-   "cloud": ["heroku", "vercel"],
+   "cloud": ["Heroku", "Vercel", "Docker"],
    "learning":["Springboot", "Problem Solving", "Domain-Driven Design", "CQRS", "Redis", "AWS", "GoLang", "Code Design"]
 }
 ```
