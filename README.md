@@ -9,7 +9,7 @@ I'm a Software Engineer with a HUGE passion for backend and cloud tech. I enjoy 
 
 ```json
 {
-   "languages": ["JavaScript", "TypeScript"],
+   "languages": ["JavaScript", "TypeScript", "Java", "GO"],
    "backend": ["NodeJS", "ExpressJs", "Springboot", "NestJS", "GraphQL", "Microservices", "Message-Queues"],
    "frontend": ["React", "NextJS", "Redux", "Vue", "Vuex"],
    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
